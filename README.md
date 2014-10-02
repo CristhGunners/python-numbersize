@@ -19,7 +19,7 @@ Una vez listo este paso, procedemos a llamar a numbersize
       bigdecimal = 1024
       abbdecimal = abbr(bigdecimal,decimal)
       print(abbdecimal)
-      >> 1K
+      >> 1KB
       
 
 ## Sistema de conversión
