@@ -20,3 +20,23 @@ Una vez listo este paso, procedemos a llamar a numbersize
       abbdecimal = abbr(bigdecimal,decimal)
       print(abbdecimal)
       >> 1K
+      
+
+## Sistema de conversión
+
+El sistema normal contempla las siguientes opciones:
+
+- KB
+- MB
+- GB
+- TB
+- PB
+
+El sistema decimal comtempla las siguientes opciones:
+
+- K
+- M
+- G
+- T
+- P
+
